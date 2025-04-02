@@ -1,5 +1,3 @@
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Najla+Guimaraes;I'm+25+years+old;I'm+from+Brazil;I'm+a+full-stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 <div align=center>
  
 # ✨ Hi there, I'm <a href="https://www.linkedin.com/in/najlaguimaraes/">Najla</a>! ✨
@@ -33,9 +31,9 @@
 <br>
 <img align="right" width="380" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"/>
 
-- 👩‍💻 Studying **Computational Engineering** at [https://univesp.br).
-- 💼 About to graduate **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/)
-- 📈 Training in the **AWS re/Start** at [Escola da Nuvem](https://escoladanuvem.org)
+- 👩‍💻 Studying **Computational Engineering** at [Univesp](https://univesp.br).
+- 💼 About to graduate **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
+- 📈 Training in the **AWS re/Start** at [Escola da Nuvem](https://escoladanuvem.org).
 - 💻 Training in **Back-end**, **Data Science** and **Front-End** at [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
 - 🌍 Intermediary in **English and Spanish**.
 - 📍 Based in **São Paulo - SP, Brazil**.
