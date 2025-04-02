@@ -33,7 +33,7 @@
 - 👩‍💻 Studying **Computational Engineering** at [Univesp](https://univesp.br).
 - 💼 About to graduate **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
 - 📈 Training in the **AWS re/Start** at [Escola da Nuvem](https://escoladanuvem.org).
-- 💻 Training in **Back-end**, **Data Science** and **Front-End** at [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
+- 💻 Training in **Personal Leadership**, **Business** and **Technology** at [EY-Empodera](https://on.fiap.com.br/local/salavirtual/conteudo-digital.php).
 - 🌍 Intermediary in **English and Spanish**.
 - 📍 Based in **São Paulo - SP, Brazil**.
 <br>
