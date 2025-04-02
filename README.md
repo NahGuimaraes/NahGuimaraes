@@ -28,7 +28,7 @@
 ***********
 ## ✨ Some facts about me:
 <br>
-<img align="right" width="380" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"/>
 
 - 👩‍💻 Studying **Computational Engineering** at [Univesp](https://univesp.br).
 - 💼 About to graduate **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
